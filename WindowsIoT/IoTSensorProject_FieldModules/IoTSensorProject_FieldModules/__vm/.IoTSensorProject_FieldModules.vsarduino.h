@@ -63,5 +63,5 @@ extern "C" void __cxa_pure_virtual() {;}
 #define portOutputRegister(P)
 #define portInputRegister(P)
 #define portModeRegister(P)
-#include <..\IoTSensorProject_FieldModules\IoTSensorProject_FieldModules.ino>
+#include <IoTSensorProject_FieldModules.ino>
 #endif
